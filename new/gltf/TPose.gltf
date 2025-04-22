@@ -2607,7 +2607,7 @@
                     }
                 }
             ],
-            "name" : "Armature|mixamo.com|Layer0",
+            "name" : "TPose",
             "samplers" : [
                 {
                     "input" : 0,

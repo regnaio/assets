@@ -326,5 +326,5 @@
 {"name":"anim","property":"_matrix","dataType":3,"framePerSecond":30,"loopBehavior":1,"keys":[
 {"frame":1,"values":[1,0,0,0,0,1,0,0,0,0,1,0,0,10,0,1]},
 {"frame":2,"values":[1,0,0,0,0,1,0,0,0,0,1,0,0,10,0,1]}]}}]
-,"ranges":[{"name":"Armature|mixamo.com|Layer0","from":0,"to":2}]}]
+,"ranges":[{"name":"TPose","from":0,"to":2}]}]
 }

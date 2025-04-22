@@ -9,7 +9,7 @@ Exporter version: 3.3.2, Blender version: 3.3.21
 		Vert Color Precision:  3
 		Mat Weight Precision:  2
 		Keep Z-up r-handed  :  no
-		Texture directory   :  /Users/gbz/Downloads/
+		Texture directory   :  /Users/gbz/Downloads/babylon/
 	Python World class constructor completed
 	WARNING: No active camera has been assigned, or is not in a currently enabled collection
 	processing begun of skeleton:  Armature, id:  0
@@ -78,8 +78,8 @@ Exporter version: 3.3.2, Blender version: 3.3.21
 		processing begun of bone:  mixamorig:RightFoot, index:  62
 		processing begun of bone:  mixamorig:RightToeBase, index:  63
 		processing begun of bone:  mixamorig:RightToe_End, index:  64
-		processing action Armature|mixamo.com|Layer0:  in[1 - 60], out[0 - 60]
+		processing action Idle:  in[1 - 60], out[0 - 60]
 ========= Writing of JSON file started =========
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.0873 secs
+elapsed time:  0 min, 0.0977 secs
