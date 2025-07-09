@@ -221,6 +221,9 @@
 			]
 		},
 		{
+			"extras":{
+				"behavior":"IMPULSE"
+			},
 			"name":"Cube.005",
 			"primitives":[
 				{
