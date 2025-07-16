@@ -7,7 +7,7 @@
 	"scenes":[
 		{
 			"extras":{
-				"drivers_on":true
+				"drivers_on":false
 			},
 			"name":"Scene",
 			"nodes":[
@@ -258,13 +258,13 @@
 		{
 			"extras":{
 				"position":[
-					0.0,
-					0.0,
-					0.0
+					50.0,
+					20.0,
+					14.304200172424316
 				],
 				"rotation":[
 					0.0,
-					0.0,
+					0.7853981852531433,
 					0.0
 				],
 				"ignorePathfinding":true,
@@ -326,13 +326,13 @@
 			"extras":{
 				"position":[
 					0.0,
-					0.0,
-					0.0
+					50.0,
+					14.304200172424316
 				],
 				"rotation":[
 					0.0,
-					0.0,
-					0.0
+					0.7853981852531433,
+					1.5707963705062866
 				],
 				"ignorePathfinding":true,
 				"behavior":"FIELD",
