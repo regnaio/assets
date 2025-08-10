@@ -72,7 +72,9 @@
 		},
 		{
 			"extras":{
-				"behavior":"CONTACT_IMPULSE"
+				"behavior":"CONTACT_IMPULSE",
+				"behaviorMask":"STATIC_ENVIRONMENT",
+				"magnitude":25.0
 			},
 			"mesh":10,
 			"name":"Launcher"
@@ -85,7 +87,11 @@
 					0.0,
 					0.0
 				],
-				"ignorePathfinding":true
+				"ignorePathfinding":true,
+				"mask":"NONE",
+				"group":"NONE",
+				"behaviorMask":"KINEMATIC_ENVIRONMENT",
+				"magnitude":50.0
 			},
 			"mesh":11,
 			"name":"Field"
@@ -152,7 +158,11 @@
 					0.0,
 					0.0
 				],
-				"ignorePathfinding":true
+				"ignorePathfinding":true,
+				"mask":"NONE",
+				"group":"NONE",
+				"behaviorMask":"KINEMATIC_ENVIRONMENT",
+				"magnitude":50.0
 			},
 			"mesh":12,
 			"name":"Field.001"
