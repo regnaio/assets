@@ -72,7 +72,7 @@
 		},
 		{
 			"extras":{
-				"behavior":"CONTACT_IMPULSE",
+				"behavior":"CONTACT_LINEAR_VELOCITY",
 				"behaviorMask":"STATIC_ENVIRONMENT",
 				"magnitude":25.0
 			},
@@ -81,7 +81,7 @@
 		},
 		{
 			"extras":{
-				"behavior":"FIELD",
+				"behavior":"FIELD_FORCE",
 				"direction":[
 					-1.0,
 					0.0,
@@ -91,7 +91,7 @@
 				"mask":"NONE",
 				"group":"NONE",
 				"behaviorMask":"KINEMATIC_ENVIRONMENT",
-				"magnitude":50.0
+				"magnitude":25.0
 			},
 			"mesh":11,
 			"name":"Field"
@@ -152,7 +152,7 @@
 		},
 		{
 			"extras":{
-				"behavior":"FIELD",
+				"behavior":"FIELD_LINEAR_VELOCITY",
 				"direction":[
 					-1.0,
 					0.0,
@@ -162,7 +162,7 @@
 				"mask":"NONE",
 				"group":"NONE",
 				"behaviorMask":"KINEMATIC_ENVIRONMENT",
-				"magnitude":50.0
+				"magnitude":25.0
 			},
 			"mesh":12,
 			"name":"Field.001"
