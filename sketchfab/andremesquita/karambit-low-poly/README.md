@@ -1,1 +1,1 @@
-https://sketchfab.com/3d-models/smoke-grenade-low-poly-f2b2c44d9af5417287b87955c9bef4ac
+https://sketchfab.com/3d-models/talon-knife-low-poly-12696db28510419baae330cedf5e75a5
