@@ -1,4 +1,5 @@
 #!/bin/bash
+
 for file in ./animation/*.glb; do
 	name=${file##*/}
 	base=${name%.glb}
